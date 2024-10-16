@@ -1,5 +1,6 @@
 name: Streamlit CI/CD Pipeline
 
+
 on:
   push:
     branches:
